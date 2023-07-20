@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "mane file"
+version = "0.1.0"
+description = ""
+authors = ["fitsumbelay <fitsum.ozo@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+pyrogram = "^2.0.106"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
