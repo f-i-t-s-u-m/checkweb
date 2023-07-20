@@ -17,7 +17,7 @@ def check_website(url):
 
 
 
-url = "https://jobs.dbe.com.et/" # The URL of the website to check
+url = "https://dbe.com.et/" # The URL of the website to check
 chat_id = "399044004" # The chat_id to send the message to
 interval = 2 # 10 minutes in seconds
 
